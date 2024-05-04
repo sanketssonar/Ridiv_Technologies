@@ -19,7 +19,7 @@ pip install streamlit pdfplumber openai
 4. Run the Streamlit application:
 
 ```
-streamlit run app.py
+streamlit run pdf_chatbot.py
 ```
 
 ## Usage
